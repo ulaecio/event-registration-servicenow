@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="eec0899e83219210adeff6d6feaad3cb" sys_domain="global" table="sys_db_object" version="3" view="event_registration">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>8b288d5683619210adeff6d6feaad3ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <text>Table Form Top</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>8b288d5683619210adeff6d6feaad3ef</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>cb28051a83619210adeff6d6feaad346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">eec0899e83219210adeff6d6feaad3cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>c328051a83619210adeff6d6feaad347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">eec0899e83219210adeff6d6feaad3cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>label</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>cb28051a83619210adeff6d6feaad347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">eec0899e83219210adeff6d6feaad3cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>c328051a83619210adeff6d6feaad348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">eec0899e83219210adeff6d6feaad3cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>super_class</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>cb28051a83619210adeff6d6feaad348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">eec0899e83219210adeff6d6feaad3cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>c328051a83619210adeff6d6feaad349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">eec0899e83219210adeff6d6feaad3cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>cb28051a83619210adeff6d6feaad349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">eec0899e83219210adeff6d6feaad3cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>show_in_menu.xml</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:14:40</sys_created_on>
+            <sys_id>c328051a83619210adeff6d6feaad34a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Show In Menu">3bcb5673ef503000a61d5a3615c0fb85</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">eec0899e83219210adeff6d6feaad3cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:14:40</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 18:42:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eec0899e83219210adeff6d6feaad3cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_db_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Event Registration" source="x_1259159_event_0">79796c8283e91210adeff6d6feaad3bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope>
+            <sys_update_name>sys_ui_section_eec0899e83219210adeff6d6feaad3cb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 18:42:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Event Registration" name="event_registration">2ec0455e83219210adeff6d6feaad324</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

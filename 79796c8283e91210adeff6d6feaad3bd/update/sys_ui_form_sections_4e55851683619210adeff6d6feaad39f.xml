@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4e55851683619210adeff6d6feaad39f" sys_domain="global" table="x_1259159_event_0_registration" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:02:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0255851683619210adeff6d6feaad3a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1259159_event_0_registration" name="x_1259159_event_0_registration" sys_domain="global" view="Default view">4e55851683619210adeff6d6feaad39f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1259159_event_0_registration" sys_domain="global" view="Default view">c91d288683e91210adeff6d6feaad34e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:02:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:02:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a55851683619210adeff6d6feaad3a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1259159_event_0_registration" name="x_1259159_event_0_registration" sys_domain="global" view="Default view">4e55851683619210adeff6d6feaad39f</sys_ui_form>
+            <sys_ui_section caption="Requester Data" display_value="Requester Data" name="x_1259159_event_0_registration" sys_domain="global" view="Default view">ca55851683619210adeff6d6feaad3a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:02:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1259159_event_0_registration</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:02:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e55851683619210adeff6d6feaad39f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1259159_event_0_registration</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Event Registration" source="x_1259159_event_0">79796c8283e91210adeff6d6feaad3bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4e55851683619210adeff6d6feaad39f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:02:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

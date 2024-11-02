@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-01 20:54:26</sys_created_on>
+        <sys_id>5f78aa2e836dd210adeff6d6feaad35e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.managers_role</sys_name>
+        <sys_package display_value="Event Registration" source="x_1259159_event_0">79796c8283e91210adeff6d6feaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope>
+        <sys_security_acl display_value="">b168ea2e836dd210adeff6d6feaad335</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5f78aa2e836dd210adeff6d6feaad35e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-01 20:54:26</sys_updated_on>
+        <sys_user_role display_value="managers_role" name="managers_role">4c1eb1e283a9d210adeff6d6feaad3ee</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</application>
+        <file_path/>
+        <instance_id>f709e0cdeb7b8250e483f459bad0cdba</instance_id>
+        <instance_name>dev284621</instance_name>
+        <name>sys_security_acl_role_5f78aa2e836dd210adeff6d6feaad35e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-01 20:54:26</sys_created_on><sys_id>5f78aa2e836dd210adeff6d6feaad35e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.managers_role</sys_name><sys_package display_value="Event Registration" source="x_1259159_event_0">79796c8283e91210adeff6d6feaad3bd</sys_package><sys_policy/><sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope><sys_security_acl display_value="">b168ea2e836dd210adeff6d6feaad335</sys_security_acl><sys_update_name>sys_security_acl_role_5f78aa2e836dd210adeff6d6feaad35e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-01 20:54:26</sys_updated_on><sys_user_role display_value="managers_role" name="managers_role">4c1eb1e283a9d210adeff6d6feaad3ee</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>440878974</payload_hash>
+        <record_name>.managers_role</record_name>
+        <reverted_from/>
+        <source>3d79ac8283e91210adeff6d6feaad331</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-01 20:54:26</sys_created_on>
+        <sys_id>de982a2e836dd210adeff6d6feaad3b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192e9820a080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-01 20:54:26</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d2982a2e186dd2104e252add153719b1</update_guid>
+        <update_guid_history>d2982a2e186dd2104e252add153719b1:440878974</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".managers_role">bb292e6e836dd210adeff6d6feaad3ed</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-01 20:57:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>48168686c8f4407792b04117f2be29b9</sys_id>
+        <sys_metadata>5f78aa2e836dd210adeff6d6feaad35e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.managers_role</sys_name>
+        <sys_package display_value="Event Registration" source="x_1259159_event_0">79796c8283e91210adeff6d6feaad3bd</sys_package>
+        <sys_parent display_value="x_1259159_event_0_event.*">b168ea2e836dd210adeff6d6feaad335</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope>
+        <sys_scope_delete display_value="">0c6503058f80423886c8668fa8b5be40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5f78aa2e836dd210adeff6d6feaad35e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5f78aa2e836dd210adeff6d6feaad35e">de982a2e836dd210adeff6d6feaad3b1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-01 20:57:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

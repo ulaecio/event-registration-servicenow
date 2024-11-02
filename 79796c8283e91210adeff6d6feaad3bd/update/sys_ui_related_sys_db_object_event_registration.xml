@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sys_db_object" version="2" view="event_registration">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Event Registration" name="sys_db_object" related_list="NULL" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">66cf4d1e83619210adeff6d6feaad305</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:27900e83c3713000bac1addbdfba8fb6</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:47:57</sys_created_on>
+            <sys_id>62cf4d1e83619210adeff6d6feaad307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:47:57</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Event Registration" name="sys_db_object" related_list="NULL" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">66cf4d1e83619210adeff6d6feaad305</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:17a52313bf1030001875647fcf0739d4</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:47:57</sys_created_on>
+            <sys_id>aacf4d1e83619210adeff6d6feaad307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:47:57</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Event Registration" name="sys_db_object" related_list="NULL" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">66cf4d1e83619210adeff6d6feaad305</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>v_index_creator.table</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:47:57</sys_created_on>
+            <sys_id>aecf4d1e83619210adeff6d6feaad307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:47:57</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Event Registration" name="sys_db_object" related_list="NULL" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">66cf4d1e83619210adeff6d6feaad305</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:a81e90f153311200efd6cbaac2dc3451</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:47:57</sys_created_on>
+            <sys_id>a2cf4d1e83619210adeff6d6feaad308</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:47:57</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Event Registration" name="sys_db_object" related_list="NULL" sys_domain="global" view="2ec0455e83219210adeff6d6feaad324">66cf4d1e83619210adeff6d6feaad305</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>REL:4344f6f5bf1320001875647fcf0739ad</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:47:57</sys_created_on>
+            <sys_id>a6cf4d1e83619210adeff6d6feaad308</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:47:57</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Table - Event Registration</calculated_name>
+            <filter/>
+            <name>sys_db_object</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-31 19:47:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66cf4d1e83619210adeff6d6feaad305</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table - Event Registration</sys_name>
+            <sys_package display_value="Event Registration" source="x_1259159_event_0">79796c8283e91210adeff6d6feaad3bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope>
+            <sys_update_name>sys_ui_related_sys_db_object_event_registration</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-31 19:47:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Event Registration" name="event_registration">2ec0455e83219210adeff6d6feaad324</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
