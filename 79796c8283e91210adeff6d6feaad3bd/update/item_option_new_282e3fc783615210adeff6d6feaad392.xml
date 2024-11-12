@@ -17,8 +17,8 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <dynamic_value_dot_walk_path>email</dynamic_value_dot_walk_path>
-        <dynamic_value_field display_value="Your full name">8c8d33c783615210adeff6d6feaad308</dynamic_value_field>
+        <dynamic_value_dot_walk_path/>
+        <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field>email</field>
@@ -27,7 +27,7 @@
         <help_text/>
         <hidden>false</hidden>
         <include_none>false</include_none>
-        <instructions><![CDATA[<p>Type a valid email or select a dynamic choice.</p>]]></instructions>
+        <instructions><![CDATA[<p>Type your valid email.</p>]]></instructions>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
@@ -47,7 +47,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>You email</question_text>
+        <question_text>Your email</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -77,17 +77,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-03 16:27:26</sys_created_on>
         <sys_id>282e3fc783615210adeff6d6feaad392</sys_id>
-        <sys_mod_count>12</sys_mod_count>
-        <sys_name>You email</sys_name>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Your email</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope>
         <sys_update_name>item_option_new_282e3fc783615210adeff6d6feaad392</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-03 21:31:37</sys_updated_on>
+        <sys_updated_on>2024-11-12 21:56:37</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>8</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

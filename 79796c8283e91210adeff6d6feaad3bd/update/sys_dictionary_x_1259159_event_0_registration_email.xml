@@ -10,13 +10,13 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Email</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:gs.getUser().email</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -58,11 +58,11 @@
         <sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope>
         <sys_update_name>sys_dictionary_x_1259159_event_0_registration_email</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-03 22:46:40</sys_updated_on>
+        <sys_updated_on>2024-11-12 20:55:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
-        <use_dependent_field>true</use_dependent_field>
+        <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>

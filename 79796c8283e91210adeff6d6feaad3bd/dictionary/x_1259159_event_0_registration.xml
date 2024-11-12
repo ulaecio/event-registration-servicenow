@@ -3,7 +3,7 @@
         <element choice="2" dependent="event" dependent_on_field="event" label="Event" max_length="32" name="event" reference="x_1259159_event_0_event" type="reference" use_dependent_field="true">
             <choice/>
         </element>
-        <element default="javascript:gs.getUser().email" label="Email" max_length="40" name="email" type="string" use_dependent_field="true"/>
-        <element default="javascript:gs.getUserID();" dependent="full_name" dependent_on_field="full_name" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="Full Name" max_length="32" name="full_name" reference="sys_user" type="reference" use_dependent_field="true" use_dynamic_default="true"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element dependent="full_name" dependent_on_field="full_name" label="Full Name" max_length="40" name="full_name" type="string" use_dependent_field="true"/>
     </element>
 </database>

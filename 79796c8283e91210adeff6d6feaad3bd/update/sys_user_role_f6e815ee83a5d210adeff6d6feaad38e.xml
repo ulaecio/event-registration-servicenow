@@ -4,7 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>Usuários com permissão para gerenciar eventos e&#13;
 inscrições/registros em eventos.</description>
-        <elevated_privilege>true</elevated_privilege>
+        <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1259159_event_0.managers_role</name>
@@ -14,13 +14,13 @@ inscrições/registros em eventos.</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-01 15:06:40</sys_created_on>
         <sys_id>f6e815ee83a5d210adeff6d6feaad38e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>x_1259159_event_0.managers_role</sys_name>
         <sys_package display_value="Event Registration" source="x_1259159_event_0">79796c8283e91210adeff6d6feaad3bd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Event Registration">79796c8283e91210adeff6d6feaad3bd</sys_scope>
         <sys_update_name>sys_user_role_f6e815ee83a5d210adeff6d6feaad38e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-01 17:47:11</sys_updated_on>
+        <sys_updated_on>2024-11-12 17:55:16</sys_updated_on>
     </sys_user_role>
 </record_update>
